@@ -1,0 +1,1480 @@
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d vaaaaaaaaaaaaaaaa fdsfadsf sdf d aa small.txt+                                                                           buffers 
+  1 aa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d vaaaaaaaaaaaaaaaa fdsfadsf sdf d a          
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+ INSERT   master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+  1 aa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d vaaaaaaaaaaaaaaaa fdsfadsf sdf d a          
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+ INSERT   master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+  1 aa fdsfadsf sdf d aaaaaaaaaaaaaaaa fdsfadsf sdf d vaaaaaaaaaaaaaaaa fdsfadsf sdf d a          
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+~                                                                                                 
+ INSERT   master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+109                                                                                         
+110                                                                                         
+111                                                                                               
+112                                                                                               
+113                                                                                               
+114                                                                                               
+115                                                                                               
+116                                                                                               
+117                                                                                               
+118                                                                                               
+119                                                                                               
+120                                                                                               
+121                                                                                               
+122                                                                                               
+123                                                                                               
+124                                                                                               
+125                                                                                               
+126                                                                                               
+127                                                                                               
+128                                                                                               
+129                                                                                               
+130                                                                                               
+131                                                                                               
+132                                                                                               
+133                                                                                               
+134                                                                                               
+135                                                                                               
+136                                                                                               
+137                                                                                               
+138                                                                                               
+139                                                                                               
+140                                                                                               
+141                                                                                               
+142                                                                                               
+143                                                                                               
+144                                                                                               
+145                                                                                               
+146                                                                                               
+147                                                                                               
+148                                                                                               
+149                                                                                               
+150                                                                                               
+151                                                                                               
+152                                                                                               
+153                                                                                               
+154                                                                                               
+155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+156 
+157 --                                                                                            
+ NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12  ☲ [1]trai… 
+
+                                                                                          small.txt+                                                                           buffers 
+109                                                                                         
+110                                                                                         
+111                                                                                               
+112                                                                                               
+113                                                                                               
+114                                                                                               
+115                                                                                               
+116                                                                                               
+117                                                                                               
+118                                                                                               
+119                                                                                               
+120                                                                                               
+121                                                                                               
+122                                                                                               
+123                                                                                               
+124                                                                                               
+125                                                                                               
+126                                                                                               
+127                                                                                               
+128                                                                                               
+129                                                                                               
+130                                                                                               
+131                                                                                               
+132                                                                                               
+133                                                                                               
+134                                                                                               
+135                                                                                               
+136                                                                                               
+137                                                                                               
+138                                                                                               
+139                                                                                               
+140                                                                                               
+141                                                                                               
+142                                                                                               
+143                                                                                               
+144                                                                                               
+145                                                                                               
+146                                                                                               
+147                                                                                               
+148                                                                                               
+149                                                                                               
+150                                                                                               
+151                                                                                               
+152                                                                                               
+153                                                                                               
+154                                                                                               
+155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+156 
+157 --                                                                                            
+ NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12  ☲ [1]trai… 
+
+                                                                                          small.txt+                                                                           buffers 
+109                                                                                         
+110                                                                                         
+111                                                                                               
+112                                                                                               
+113                                                                                               
+114                                                                                               
+115                                                                                               
+116                                                                                               
+117                                                                                               
+118                                                                                               
+119                                                                                               
+120                                                                                               
+121                                                                                               
+122                                                                                               
+123                                                                                               
+124                                                                                               
+125                                                                                               
+126                                                                                               
+127                                                                                               
+128                                                                                               
+129                                                                                               
+130                                                                                               
+131                                                                                               
+132                                                                                               
+133                                                                                               
+134                                                                                               
+135                                                                                               
+136                                                                                               
+137                                                                                               
+138                                                                                               
+139                                                                                               
+140                                                                                               
+141                                                                                               
+142                                                                                               
+143                                                                                               
+144                                                                                               
+145                                                                                               
+146                                                                                               
+147                                                                                               
+148                                                                                               
+149                                                                                               
+150                                                                                               
+151                                                                                               
+152                                                                                               
+153                                                                                               
+154                                                                                               
+155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+156 
+157 --                                                                                            
+ NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12  ☲ [1]trai… 
+
+                                                                                          small.txt+                                                                           buffers 
+265 112                                                                                     
+266 113                                                                                           
+267 114                                                                                           
+268 115                                                                                           
+269 116                                                                                           
+270 117                                                                                           
+271 118                                                                                           
+272 119                                                                                           
+273 120                                                                                           
+274 121                                                                                           
+275 122                                                                                           
+276 123                                                                                           
+277 124                                                                                           
+278 125                                                                                           
+279 126                                                                                           
+280 127                                                                                           
+281 128                                                                                           
+282 129                                                                                           
+283 130                                                                                           
+284 131                                                                                           
+285 132                                                                                           
+286 133                                                                                           
+287 134                                                                                           
+288 135                                                                                           
+289 136                                                                                           
+290 137                                                                                           
+291 138                                                                                           
+292 139                                                                                           
+293 140                                                                                           
+294 141                                                                                           
+295 142                                                                                           
+296 143                                                                                           
+297 144                                                                                           
+298 145                                                                                           
+299 146                                                                                           
+300 147                                                                                           
+301 148                                                                                           
+302 149                                                                                           
+303 150                                                                                           
+304 151                                                                                           
+305 152                                                                                           
+306 153                                                                                           
+307 154                                                                                           
+308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+309 156
+310 157 --                                                                                        
+311  NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12  ☲ [1]tr
+312 
+313                                                                                               
+ NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:89  ☲ [1]trai… 
+
+ small.txt+                                                                           buffers 
+265 112                                                                                     
+266 113                                                                                           
+267 114                                                                                           
+268 115                                                                                           
+269 116                                                                                           
+270 117                                                                                           
+271 118                                                                                           
+272 119                                                                                           
+273 120                                                                                           
+274 121                                                                                           
+275 122                                                                                           
+276 123                                                                                           
+277 124                                                                                           
+278 125                                                                                           
+279 126                                                                                           
+280 127                                                                                           
+281 128                                                                                           
+282 129                                                                                           
+283 130                                                                                           
+284 131                                                                                           
+285 132                                                                                           
+286 133                                                                                           
+287 134                                                                                           
+288 135                                                                                           
+289 136                                                                                           
+290 137                                                                                           
+291 138                                                                                           
+292 139                                                                                           
+293 140                                                                                           
+294 141                                                                                           
+295 142                                                                                           
+296 143                                                                                           
+297 144                                                                                           
+298 145                                                                                           
+299 146                                                                                           
+300 147                                                                                           
+301 148                                                                                           
+302 149                                                                                           
+303 150                                                                                           
+304 151                                                                                           
+305 152                                                                                           
+306 153                                                                                           
+307 154                                                                                           
+308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai… 
+309 156
+310 157 --                                                                                        
+311  NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12  ☲ [1]tr
+312 
+313                                                                                               
+ NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:89  ☲ [1]trai… 
+
+ small.txt+                                                                           buffers 
+369 268 115                                                                                     
+370 269 116                                                                                       
+371 270 117                                                                                       
+372 271 118                                                                                       
+373 272 119                                                                                       
+374 273 120                                                                                       
+375 274 121                                                                                       
+376 275 122                                                                                       
+377 276 123                                                                                       
+378 277 124                                                                                       
+379 278 125                                                                                       
+380 279 126                                                                                       
+381 280 127                                                                                       
+382 281 128                                                                                       
+383 282 129                                                                                       
+384 283 130                                                                                       
+385 284 131                                                                                       
+386 285 132                                                                                       
+387 286 133                                                                                       
+388 287 134                                                                                       
+389 288 135                                                                                       
+390 289 136                                                                                       
+391 290 137                                                                                       
+392 291 138                                                                                       
+393 292 139                                                                                       
+394 293 140                                                                                       
+395 294 141                                                                                       
+396 295 142                                                                                       
+397 296 143                                                                                       
+398 297 144                                                                                       
+399 298 145                                                                                       
+400 299 146                                                                                       
+401 300 147                                                                                       
+402 301 148                                                                                       
+403 302 149                                                                                       
+404 303 150                                                                                       
+405 304 151                                                                                       
+406 305 152                                                                                       
+407 306 153                                                                                       
+408 307 154                                                                                       
+409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]trai
+410 309 156                                                                                       
+411 310 157 --                                                                            
+412 311  NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12  ☲ [
+413 312                                                                                     
+414 313                                                                                     
+415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:89  ☲ [1]tr
+416                                                                                         
+417                                                                                               
+ NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1  ☲ [1]trai… 
+ small.txt+                                                                           buffers 
+421 372 271 118                                                                                   
+422 373 272 119                                                                                   
+423 374 273 120                                                                                   
+424 375 274 121                                                                                   
+425 376 275 122                                                                                   
+426 377 276 123                                                                                   
+427 378 277 124                                                                                   
+428 379 278 125                                                                                   
+429 380 279 126                                                                                   
+430 381 280 127                                                                                   
+431 382 281 128                                                                                   
+432 383 282 129                                                                                   
+433 384 283 130                                                                                   
+434 385 284 131                                                                                   
+435 386 285 132                                                                                   
+ small.txt                                                               buffers 
+ 455 406 305 152                                                                     
+ 456 407 306 153                                                                     
+ 457 408 307 154
+ 458 409 308 155  master  small.txt[+]      text         285 words  100% :1
+ 459 410 309 156
+ 460 411 310 157 --
+ 461 412 311  NORMAL   master  small.txt[+]      text         558 words  100
+ 462 413 312
+ 463 414 313
+ 464 415  NORMAL   master  small.txt[+]      text         843 words  100% :
+ 465 416
+ 466 417
+ 467  NORMAL   master  small.txt[+]     text         1,167 words  100% :417
+ 468  small.txt+  
+ 469 421 372 271 118
+ 470 422 373 272 119
+ 471 423 374 273 120
+ 472 424 375 274 121
+ 473 425 376 275 122
+ 474 426 377 276 123
+ 475 427 378 277 124
+ 476 428 379 278 125
+ 477 429 380 279 126
+ 478 430 381 280 127
+ 479 431 382 281 128
+ 480 432 383 282 129
+ 481 433 384 283 130
+ 482 434 385 284 131
+ 483 435 386 285 132
+ 484 436 387 286 133                                                                 
+ 485 437 388 287 134
+ 486 438 389 288 135
+ 487 439 390 289 136
+ 488 440 391 290 137
+ 489 441 392 291 138
+ 490 442 393 292 139
+ 491 443 394 293 140
+ 492 444 395 294 141
+ 493 445 396 295 142
+ 494 446 397 296 143
+ 495 447 398 297 144
+ 496 448 399 298 145
+ 497 449 400 299 146
+ 498 450 401 300 147
+ 499 451 402 301 148
+ 500 452 403 302 149
+ 501 453 404 303 150
+ 502 454 405 304 151
+ 503 455 406 305 152
+ 504 456 407 306 153
+ 505 457 408 307 154
+ 506 458 409 308 155  master  small.txt[+]      text         285 words  100%
+ 507 459 410 309 156
+ 508 460 411 310 157 --
+ 509 461 412 311  NORMAL   master  small.txt[+]      text         558 words 
+ 510 462 413 312
+ 511 463 414 313
+ 512 464 415  NORMAL   master  small.txt[+]      text         843 words  100
+ 513 465 416
+ 514 466 417
+ NORMAL   master  <tex…     utf-8    8163W  39% :484/1228☰ ℅:1  ☲ [484]tr… 
+"small.txt" 1228L, 105378B
+ small.txt                                                               buffers 
+ 518  488 440 391 290 137
+ 519  489 441 392 291 138
+ 520  490 442 393 292 139
+ 521  491 443 394 293 140
+ 522  492 444 395 294 141
+ 523  493 445 396 295 142
+ 524  494 446 397 296 143
+ 525  495 447 398 297 144
+ 526  496 448 399 298 145
+ 527  497 449 400 299 146
+ 528  498 450 401 300 147
+ 529  499 451 402 301 148
+ 530  500 452 403 302 149
+ 531  501 453 404 303 150
+ 532  502 454 405 304 151
+ 533  503 455 406 305 152
+ 534  504 456 407 306 153
+ 535  505 457 408 307 154
+ 536  506 458 409 308 155  master  small.txt[+]      text         285 words 
+ 537  507 459 410 309 156
+ 538  508 460 411 310 157 --
+ 539  509 461 412 311  NORMAL   master  small.txt[+]      text         558 wo
+ 540  510 462 413 312
+ 541  511 463 414 313
+ 542  512 464 415  NORMAL   master  small.txt[+]      text         843 words
+ 543  513 465 416
+ 544  514 466 417
+ 545  NORMAL   master  <tex…     utf-8    8163W  39% :484/1228☰ ℅:1  ☲ [484
+ 546 "small.txt" 1228L, 105378B
+ 547 436 387 286 133                                                                 
+ 548 437 388 287 134
+ 549 438 389 288 135
+ 550 439 390 289 136
+ 551 440 391 290 137
+ 552 441 392 291 138
+ 553 442 393 292 139
+ 554 443 394 293 140
+ 555 444 395 294 141
+ 556 445 396 295 142
+ 557 446 397 296 143
+ 558 447 398 297 144
+ 559 448 399 298 145
+ 560 449 400 299 146
+ 561 450 401 300 147
+ 562 451 402 301 148
+ 563 452 403 302 149
+ 564 453 404 303 150
+ 565 454 405 304 151
+ 566 455 406 305 152
+ 567 456 407 306 153
+ 568 457 408 307 154
+ 569 458 409 308 155  master  small.txt[+]      text         285 words  100%
+ 570 459 410 309 156
+ 571 460 411 310 157 --
+ 572 461 412 311  NORMAL   master  small.txt[+]      text         558 words 
+ 573 462 413 312
+ 574 463 414 313
+ 575 464 415  NORMAL   master  small.txt[+]      text         843 words  100
+ 576 465 416
+ 577 466 417
+ NORMAL   master  <tex…     utf-8    8567W  42% :547/1291☰ ℅:1  ☲ [547]tr… 
+"small.txt" 1291L, 107585B
+ small.txt+                                                              buffers 
+ 551  521  491 443 394 293 140
+ 552  522  492 444 395 294 141                                                 
+ 553  523  493 445 396 295 142
+ 554  524  494 446 397 296 143
+ 555  525  495 447 398 297 144
+ 556  526  496 448 399 298 145
+ 557  527  497 449 400 299 146                                                 
+ 558  528  498 450 401 300 147
+ 559  529  499 451 402 301 148
+ 560  530  500 452 403 302 149
+ 561  531  501 453 404 303 150
+ 562  532  502 454 405 304 151                                                 
+ 563  533  503 455 406 305 152
+ 564  534  504 456 407 306 153                                                 
+ 565  535  505 457 408 307 154
+ 566  536  506 458 409 308 155  master  small.txt[+]      text         285 wor
+ 567  537  507 459 410 309 156 
+ 568  538  508 460 411 310 157 --
+ 569  539  509 461 412 311  NORMAL   master  small.txt[+]      text         5
+ 570  540  510 462 413 312  
+ 571  541  511 463 414 313 
+ 572  542  512 464 415  NORMAL   master  small.txt[+]      text         843 w
+ 573  543  513 465 416  
+ 574  544  514 466 417 
+ 575  545  NORMAL   master  <tex…     utf-8    8163W  39% :484/1228☰ ℅:1  ☲
+ 576  546 "small.txt" 1228L, 105378B
+ 577  547 436 387 286 133           
+ 578  548 437 388 287 134                                                            
+ 579  549 438 389 288 135
+ 580  550 439 390 289 136                                                            
+ 581  551 440 391 290 137
+ 582  552 441 392 291 138                                                            
+ 583  553 442 393 292 139
+ 584  554 443 394 293 140
+ 585  555 444 395 294 141
+ 586  556 445 396 295 142
+ 587  557 446 397 296 143                                                            
+ 588  558 447 398 297 144
+ 589  559 448 399 298 145
+ 590  560 449 400 299 146
+ 591  561 450 401 300 147
+ 592  562 451 402 301 148                                                            
+ 593  563 452 403 302 149
+ 594  564 453 404 303 150                                                            
+ 595  565 454 405 304 151
+ 596  566 455 406 305 152
+ 597  567 456 407 306 153
+ 598  568 457 408 307 154
+ 599  569 458 409 308 155  master  small.txt[+]      text         285 words 
+ 600  570 459 410 309 156 
+ 601  571 460 411 310 157 --
+ 602  572 461 412 311  NORMAL   master  small.txt[+]      text         558 wo
+ 603  573 462 413 312  
+ 604  574 463 414 313 
+ 605  575 464 415  NORMAL   master  small.txt[+]      text         843 words
+ 606  576 465 416  
+ 607  577 466 417 
+ 608  NORMAL   master  <tex…     utf-8    8567W  42% :547/1291☰ ℅:1  ☲ [547
+ 609 "small.txt" 1291L, 107585B
+ 610 436 387 286 133                                                                 
+ NORMAL   masterɆ  <ex…     utf-8    9005W  45% :610/1354☰ ℅:1  ☲ [547]tr… 
+
+ small.txt+                                                              buffers 
+ 614  554  524  494 446 397 296 143
+ 615  555  525  495 447 398 297 144
+ 616  556  526  496 448 399 298 145
+ 617  557  527  497 449 400 299 146
+ 618  558  528  498 450 401 300 147
+ 619  559  529  499 451 402 301 148
+ 620  560  530  500 452 403 302 149
+ 621  561  531  501 453 404 303 150
+ 622  562  532  502 454 405 304 151
+ 623  563  533  503 455 406 305 152
+ 624  564  534  504 456 407 306 153                                  
+ 625  565  535  505 457 408 307 154
+ 626  566  536  506 458 409 308 155  master  small.txt[+]      text         28
+ 627  567  537  507 459 410 309 156
+ 628  568  538  508 460 411 310 157 --
+ 629  569  539  509 461 412 311  NORMAL   master  small.txt[+]      text      
+ 630  570  540  510 462 413 312
+ 631  571  541  511 463 414 313 
+ 632  572  542  512 464 415  NORMAL   master  small.txt[+]      text        
+ 633  573  543  513 465 416
+ 634  574  544  514 466 417 
+ 635  575  545  NORMAL   master  <tex…     utf-8    8163W  39% :484/1228☰ ℅:
+ 636  576  546 "small.txt" 1228L, 105378B
+ 637  577  547 436 387 286 133           
+ 638  578  548 437 388 287 134 
+ 639  579  549 438 389 288 135           
+ 640  580  550 439 390 289 136           
+ 641  581  551 440 391 290 137
+ 642  582  552 441 392 291 138           
+ 643  583  553 442 393 292 139
+ 644  584  554 443 394 293 140           
+ 645  585  555 444 395 294 141
+ 646  586  556 445 396 295 142
+ 647  587  557 446 397 296 143
+ 648  588  558 447 398 297 144
+ 649  589  559 448 399 298 145 
+ 650  590  560 449 400 299 146
+ 651  591  561 450 401 300 147
+ 652  592  562 451 402 301 148
+ 653  593  563 452 403 302 149
+ 654  594  564 453 404 303 150 
+ 655  595  565 454 405 304 151
+ 656  596  566 455 406 305 152            
+ 657  597  567 456 407 306 153
+ 658  598  568 457 408 307 154
+ 659  599  569 458 409 308 155  master  small.txt[+]      text         285 wor
+ 660  600  570 459 410 309 156
+ 661  601  571 460 411 310 157 --
+ 662  602  572 461 412 311  NORMAL   master  small.txt[+]      text         5
+ 663  603  573 462 413 312
+ 664  604  574 463 414 313 
+ 665  605  575 464 415  NORMAL   master  small.txt[+]      text         843 w
+ 666  606  576 465 416
+ 667  607  577 466 417 
+ 668  608  NORMAL   master  <tex…     utf-8    8567W  42% :547/1291☰ ℅:1  ☲
+ 669  609 "small.txt" 1291L, 107585B
+ 670  610 436 387 286 133                                                       
+ 671  NORMAL   masterɆ  <ex…     utf-8    9005W  45% :610/1354☰ ℅:1  ☲ [547
+ 672 
+ 673 436 387 286 133                                                                 
+ NORMAL   masterɆ  <ex…     utf-8    9501W  47% :673/1417☰ ℅:1  ☲ [547]tr… 
+
+436 387 286 133                                                                                   
+437 388 287 134                                                                                   
+438 389 288 135                                                                                   
+439 390 289 136                                                                                   
+440 391 290 137                                                                                   
+441 392 291 138                                                                                   
+442 393 292 139                                                                                   
+443 394 293 140                                                                                   
+444 395 294 141                                                                                   
+445 396 295 142                                                                                   
+446 397 296 143                                                                                   
+447 398 297 144                                                                                   
+448 399 298 145                                                                                   
+449 400 299 146                                                                                   
+450 401 300 147                                                                                   
+451 402 301 148                                                                                   
+452 403 302 149                                                                                   
+453 404 303 150                                                                                   
+454 405 304 151                                                                                   
+455 406 305 152                                                                                   
+456 407 306 153                                                                                   
+457 408 307 154                                                                                   
+458 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲ [1]
+459 410 309 156                                                                                   
+460 411 310 157 --                                                                           
+461 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:12 
+462 413 312                                                                                   
+463 414 313                                                                                     
+464 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:89  ☲ [
+465 416                                                                                         
+466 417                                                                                           
+467  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1  ☲ [1]tr
+468                                                                                               
+~                                                                                                 
+ INSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲ [1]trai… 
+
+-- INSERT --                                                                             small.txt+                                                                           buffers 
+472 424 375 274 121                                                                         
+473 425 376 275 122                                                                         
+474 426 377 276 123                                                                         
+475 427 378 277 124                                                                               
+476 428 379 278 125                                                                               
+477 429 380 279 126                                                                               
+478 430 381 280 127                                                                               
+479 431 382 281 128                                                                               
+480 432 383 282 129                                                                               
+481 433 384 283 130                                                                               
+482 434 385 284 131                                                                               
+483 435 386 285 132                                                                               
+484 436 387 286 133                                                                               
+485 437 388 287 134                                                                               
+486 438 389 288 135                                                                               
+487 439 390 289 136                                                                               
+488 440 391 290 137                                                                               
+489 441 392 291 138                                                                               
+490 442 393 292 139                                                                               
+491 443 394 293 140                                                                               
+492 444 395 294 141                                                                               
+493 445 396 295 142                                                                               
+494 446 397 296 143                                                                               
+495 447 398 297 144                                                                               
+496 448 399 298 145                                                                               
+497 449 400 299 146                                                                               
+498 450 401 300 147                                                                               
+499 451 402 301 148                                                                               
+500 452 403 302 149                                                                               
+501 453 404 303 150                                                                               
+502 454 405 304 151                                                                               
+503 455 406 305 152                                                                               
+504 456 407 306 153                                                                               
+505 457 408 307 154                                                                               
+506 458 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲
+507 459 410 309 156                                                                         
+508 460 411 310 157 --                                                                            
+509 461 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:
+510 462 413 312                                                                             
+511 463 414 313                                                                                   
+512 464 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:89 
+513 465 416                                                                                       
+514 466 417                                                                                       
+515 467  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1  ☲ [
+516 468                                                                                           
+517 ~                                                                                             
+518  INSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲ [1]tr
+519 
+520 -- INSERT --                                                                                  
+ INSERT   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]trai… 
+
+-- INSERT (paste) -- small.txt+                                                                           buffers 
+524 427 378 277 124                                                                         
+525 428 379 278 125                                                                               
+526 429 380 279 126                                                                               
+527 430 381 280 127                                                                               
+528 431 382 281 128                                                                               
+529 432 383 282 129                                                                               
+530 433 384 283 130                                                                               
+531 434 385 284 131                                                                               
+532 435 386 285 132                                                                               
+533 436 387 286 133                                                                               
+534 437 388 287 134                                                                               
+535 438 389 288 135                                                                               
+536 439 390 289 136                                                                               
+537 440 391 290 137                                                                               
+538 441 392 291 138                                                                               
+539 442 393 292 139                                                                               
+540 443 394 293 140                                                                               
+541 444 395 294 141                                                                               
+542 445 396 295 142                                                                               
+543 446 397 296 143                                                                               
+544 447 398 297 144                                                                               
+545 448 399 298 145                                                                               
+546 449 400 299 146                                                                               
+547 450 401 300 147                                                                               
+548 451 402 301 148                                                                               
+549 452 403 302 149                                                                               
+550 453 404 303 150                                                                               
+551 454 405 304 151                                                                               
+552 455 406 305 152                                                                               
+553 456 407 306 153                                                                               
+554 457 408 307 154                                                                               
+555 458 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295  ☲
+556 459 410 309 156                                                                         
+557 460 411 310 157 --                                                                            
+558 461 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :157 ℅:
+559 462 413 312                                                                             
+560 463 414 313                                                                                   
+561 464 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:89 
+562 465 416                                                                                       
+563 466 417                                                                                       
+564 467  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1  ☲ [
+565 468                                                                                           
+566 ~                                                                                             
+567  INSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲ [1]tr
+568 
+569 -- INSERT --                                                                                  
+570 ERT   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]trai… 
+571 
+572 NSERT (paste) --                                                                              
+ INSERT   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]trai… 
+
+-- INSERT (paste) -- small.txt+                                                                           buffers 
+576 527 430 381 280 127              
+577 528 431 382 281 128                                                                       
+578 529 432 383 282 129                                                                           
+579 530 433 384 283 130                                                                           
+580 531 434 385 284 131                                                                           
+581 532 435 386 285 132                                                                           
+582 533 436 387 286 133                                                                           
+583 534 437 388 287 134                                                                           
+584 535 438 389 288 135                                                                           
+585 536 439 390 289 136                                                                           
+586 537 440 391 290 137                                                                           
+587 538 441 392 291 138                                                                           
+588 539 442 393 292 139                                                                           
+589 540 443 394 293 140                                                                           
+590 541 444 395 294 141                                                                           
+591 542 445 396 295 142                                                                           
+592 543 446 397 296 143                                                                           
+593 544 447 398 297 144                                                                           
+594 545 448 399 298 145                                                                           
+595 546 449 400 299 146                                                                           
+596 547 450 401 300 147                                                                           
+597 548 451 402 301 148                                                                           
+598 549 452 403 302 149                                                                           
+599 550 453 404 303 150                                                                           
+600 551 454 405 304 151                                                                           
+601 552 455 406 305 152                                                                           
+602 553 456 407 306 153                                                                           
+603 554 457 408 307 154                                                                           
+604 555 458 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295
+605 556 459 410 309 156                                                                         
+606 557 460 411 310 157 --                                                                      
+607 558 461 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :15
+608 559 462 413 312                                                                             
+609 560 463 414 313                                                                             
+610 561 464 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:
+611 562 465 416                                                                                   
+612 563 466 417                                                                                   
+613 564 467  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1 
+614 565 468                                                                                       
+615 566 ~                                                                                         
+616 567  INSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲ [
+617 568  
+618 569 -- INSERT --
+619 570 ERT   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]tr
+620 571 
+621 572 NSERT (paste) --
+622  INSERT   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]tr
+623 
+624 -- INSERT (paste) --                                                                          
+ INSERT   master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]trai… 
+
+-- INSERT (paste) -- small.txt+                                                                           buffers 
+628 3 384 283 130            
+629 4 385 284 131                      
+630 5 386 285 132                      
+631 6 387 286 133                                                                                 
+632 7 388 287 134                                                                                 
+633 8 389 288 135                                                                                 
+634 9 390 289 136                                                                                 
+635 0 391 290 137                                                                                 
+636 1 392 291 138                                                                                 
+637 2 393 292 139                                                                                 
+638 3 394 293 140                                                                                 
+639 4 395 294 141                                                                                 
+640 5 396 295 142                                                                                 
+641 6 397 296 143                                                                                 
+642 7 398 297 144                                                                                 
+643 8 399 298 145                                                                                 
+644 9 400 299 146                                                                                 
+645 0 401 300 147                                                                                 
+646 1 402 301 148                                                                                 
+647 2 403 302 149                                                                                 
+648 3 404 303 150                                                                                 
+649 4 405 304 151                                                                                 
+650 5 406 305 152                                                                                 
+651 6 407 306 153                                                                                 
+652 7 408 307 154                                                                                 
+653 8 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295
+654 9 410 309 156                                                                                 
+655 0 411 310 157 --                                                                              
+656 1 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :15 
+657 2 413 312                                                                                     
+658 3 414 313                                                                                    
+659 4 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:
+660 5 416                                                                                         
+661 6 417                                                                                         
+662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1 
+663 8                                                                                             
+664                                                                                               
+665 NSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲ [ 
+666 
+667  INSERT -- 
+668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]tr 
+669 
+670 ERT (paste) --
+671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]tr
+672 
+673 ERT (paste) --                                                                          
+674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]trai… 
+675 
+676 (paste) --                                                                                    
+ INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:21  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+680 631 6 387 286 133  
+681 632 7 388 287 134
+682 633 8 389 288 135        
+683 634 9 390 289 136                                                                             
+684 635 0 391 290 137                                                                             
+685 636 1 392 291 138                                                                             
+686 637 2 393 292 139                                                                             
+687 638 3 394 293 140                                                                             
+688 639 4 395 294 141                                                                             
+689 640 5 396 295 142                                                                             
+690 641 6 397 296 143                                                                             
+691 642 7 398 297 144                                                                       
+692 643 8 399 298 145                                                                       
+693 644 9 400 299 146                                                                       
+694 645 0 401 300 147                                                                       
+695 646 1 402 301 148                                                                             
+696 647 2 403 302 149                                                                             
+697 648 3 404 303 150                                                                             
+698 649 4 405 304 151                                                                             
+699 650 5 406 305 152                                                                             
+700 651 6 407 306 153                                                                             
+701 652 7 408 307 154                                                                             
+702 653 8 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:2295
+703 654 9 410 309 156                                                                             
+704 655 0 411 310 157 --                                                                          
+705 656 1 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :15 
+706 657 2 413 312                                                                                 
+707 658 3 414 313                                                                                 
+708 659 4 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 ℅:
+709 660 5 416                                                                                     
+710 661 6 417                                                                                     
+711 662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1 
+712 663 8                                                                                         
+713 664                                                                                           
+714 665 NSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲ [ 
+715 666
+716 667  INSERT --
+717 668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]tr 
+718 669
+719 670 ERT (paste) --
+720 671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]tr
+721 672
+722 673 ERT (paste) --                                                                          
+723 674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]trai… 
+724 675
+725 676 (paste) --                                                                                
+726  INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:21  ☲ [1]tr
+727 
+728 -- INSERT --                                                                                  
+ INSERT   master  small.txt[+]    text         3,166 words  100% :728 ℅:13  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+732 683 634 9 390 289 136 
+733 684 635 0 391 290 137   
+734 685 636 1 392 291 138
+735 686 637 2 393 292 139                                                                  
+736 687 638 3 394 293 140                                                                         
+737 688 639 4 395 294 141                                                                         
+738 689 640 5 396 295 142                                                                         
+739 690 641 6 397 296 143                                                                         
+740 691 642 7 398 297 144                                                                         
+741 692 643 8 399 298 145                                                                         
+742 693 644 9 400 299 146                                                                         
+743 694 645 0 401 300 147                                                                     
+744 695 646 1 402 301 148                                                                     
+745 696 647 2 403 302 149                                                                     
+746 697 648 3 404 303 150                                                                         
+747 698 649 4 405 304 151                                                                         
+748 699 650 5 406 305 152                                                                         
+749 700 651 6 407 306 153                                                                         
+750 701 652 7 408 307 154                                                                         
+751 702 653 8 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:22
+752 703 654 9 410 309 156                                                                         
+753 704 655 0 411 310 157 --                                                                      
+754 705 656 1 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :
+755 706 657 2 413 312                                                                             
+756 707 658 3 414 313                                                                             
+757 708 659 4 415  NORMAL   master  small.txt[+]      text         843 words  100% :313 
+758 709 660 5 416                                                                                 
+759 710 661 6 417                                                                                 
+760 711 662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1
+761 712 663 8                                                                                     
+762 713 664                                                                                       
+763 714 665 NSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲
+764 715 666                                                                                       
+765 716 667  INSERT --
+766 717 668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]
+767 718 669
+768 719 670 ERT (paste) --
+769 720 671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]
+770 721 672
+771 722 673 ERT (paste) --                                                                        
+772 723 674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]trai
+773 724 675
+774 725 676 (paste) --                                                                            
+775 726  INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:21  ☲ [
+776 727
+777 728 -- INSERT --                                                                              
+778  INSERT   master  small.txt[+]    text         3,166 words  100% :728 ℅:13  ☲ [1]tr
+779 
+780 -- INSERT --                                                                                  
+ INSERT   master  small.txt[+]    text         3,594 words  100% :780 ℅:13  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+784 735 686 637 2 393 292 139
+785 736 687 638 3 394 293 140
+786 737 688 639 4 395 294 141
+787 738 689 640 5 396 295 142
+788 739 690 641 6 397 296 143
+789 740 691 642 7 398 297 144
+790 741 692 643 8 399 298 145
+791 742 693 644 9 400 299 146
+792 743 694 645 0 401 300 147
+793 744 695 646 1 402 301 148                                                                  
+794 745 696 647 2 403 302 149                                                                     
+795 746 697 648 3 404 303 150                                                                     
+796 747 698 649 4 405 304 151                                                                     
+797 748 699 650 5 406 305 152                                                                     
+798 749 700 651 6 407 306 153                                                                     
+799 750 701 652 7 408 307 154                                                                     
+800 751 702 653 8 409 308 155  master  small.txt[+]      text         285 words  100% :1 
+801 752 703 654 9 410 309 156                                                                     
+802 753 704 655 0 411 310 157 --                                                                  
+803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text         558 words  100
+804 755 706 657 2 413 312                                                                   
+805 756 707 658 3 414 313                                                                   
+806 757 708 659 4 415  NORMAL   master  small.txt[+]      text         843 words  100% :
+807 758 709 660 5 416                                                                        
+808 759 710 661 6 417                                                                        
+809 760 711 662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% :417
+810 761 712 663 8                                                                           
+811 762 713 664                                                                             
+812 763 714 665 NSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1
+813 764 715 666                                                                              
+814 765 716 667  INSERT --                                                                        
+815 766 717 668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲
+816 767 718 669                                                                             
+817 768 719 670 ERT (paste) --                                                              
+818 769 720 671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲
+819 770 721 672
+820 771 722 673 ERT (paste) --                                                                    
+821 772 723 674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]
+822 773 724 675
+823 774 725 676 (paste) --                                                                        
+824 775 726  INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:21 
+825 776 727
+826 777 728 -- INSERT --                                                                          
+827 778  INSERT   master  small.txt[+]    text         3,166 words  100% :728 ℅:13  ☲ [
+828 779
+829 780 -- INSERT --                                                                              
+830  INSERT   master  small.txt[+]    text         3,594 words  100% :780 ℅:13  ☲ [1]tr
+831 
+832 -- INSERT --                                                                                  
+ INSERT   master  small.txt[+]    text         4,074 words  100% :832 ℅:13  ☲ [1]trai… 
+
+-- INSERT -- small.txt+                                                                           buffers 
+836 787 738 689 640 5 396 295 142
+837 788 739 690 641 6 397 296 143                                                                 
+838 789 740 691 642 7 398 297 144
+839 790 741 692 643 8 399 298 145                                                                 
+840 791 742 693 644 9 400 299 146
+841 792 743 694 645 0 401 300 147                                                                 
+842 793 744 695 646 1 402 301 148
+843 794 745 696 647 2 403 302 149
+844 795 746 697 648 3 404 303 150                                                                 
+845 796 747 698 649 4 405 304 151                                                                 
+846 797 748 699 650 5 406 305 152                                                                 
+847 798 749 700 651 6 407 306 153                                                                 
+848 799 750 701 652 7 408 307 154                                                                 
+849 800 751 702 653 8 409 308 155  master  small.txt[+]      text         285 words  100% 
+850 801 752 703 654 9 410 309 156                                                                 
+851 802 753 704 655 0 411 310 157 --                                                              
+852 803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text         558 words 
+853 804 755 706 657 2 413 312                                                                    
+854 805 756 707 658 3 414 313                                                                    
+855 806 757 708 659 4 415  NORMAL   master  small.txt[+]      text         843 words  100
+856 807 758 709 660 5 416                                                                        
+857 808 759 710 661 6 417                                                                        
+858 809 760 711 662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% 
+859 810 761 712 663 8                                                                            
+860 811 762 713 664                                                                              
+861 812 763 714 665 NSERT   master  small.txt[+]     text         1,393 words  100% :468
+862 813 764 715 666                                                                              
+863 814 765 716 667  INSERT --                                                                   
+864 815 766 717 668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89
+865 816 767 718 669                                                                             
+866 817 768 719 670 ERT (paste) --                                                              
+867 818 769 720 671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21
+868 819 770 721 672 
+869 820 771 722 673 ERT (paste) --                                                                
+870 821 772 723 674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲
+871 822 773 724 675
+872 823 774 725 676 (paste) --                                                                    
+873 824 775 726  INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:
+874 825 776 727
+875 826 777 728 -- INSERT --                                                                      
+876 827 778  INSERT   master  small.txt[+]    text         3,166 words  100% :728 ℅:13 
+877 828 779
+878 829 780 -- INSERT --                                                                          
+879 830  INSERT   master  small.txt[+]    text         3,594 words  100% :780 ℅:13  ☲ [
+880 831
+881 832 -- INSERT --                                                                              
+882  INSERT   master  small.txt[+]    text         4,074 words  100% :832 ℅:13  ☲ [1]tr
+883 
+884 -- INSERT --                                                                                  
+ INSERT   master  small.txt[+]    text         4,597 words  100% :884 ℅:13  ☲ [1]trai… 
+
+ small.txt                                                                                         buffers 
+785 736 687 638 3 394 293 140
+786 737 688 639 4 395 294 141
+787 738 689 640 5 396 295 142
+788 739 690 641 6 397 296 143
+789 740 691 642 7 398 297 144
+790 741 692 643 8 399 298 145
+791 742 693 644 9 400 299 146
+792 743 694 645 0 401 300 147
+793 744 695 646 1 402 301 148
+794 745 696 647 2 403 302 149
+795 746 697 648 3 404 303 150
+796 747 698 649 4 405 304 151
+797 748 699 650 5 406 305 152
+798 749 700 651 6 407 306 153
+799 750 701 652 7 408 307 154
+800 751 702 653 8 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:22
+801 752 703 654 9 410 309 156
+802 753 704 655 0 411 310 157 --
+803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :
+804 755 706 657 2 413 312
+805 756 707 658 3 414 313
+806 757 708 659 4 415  NORMAL   master  small.txt[+]      text         843 words  100% :313
+807 758 709 660 5 416
+808 759 710 661 6 417
+809 760 711 662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1         
+810 761 712 663 8
+811 762 713 664
+812 763 714 665 NSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲
+813 764 715 666
+814 765 716 667  INSERT --
+815 766 717 668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]
+816 767 718 669
+817 768 719 670 ERT (paste) --
+818 769 720 671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]
+819 770 721 672
+820 771 722 673 ERT (paste) --
+821 772 723 674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]trai
+822 773 724 675
+823 774 725 676 (paste) --
+824 775 726  INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:21  ☲ [
+825 776 727
+826 777 728 -- INSERT --
+827 778  INSERT   master  small.txt[+]    text         3,166 words  100% :728 ℅:13  ☲ [1]tr
+828 779
+829 780 -- INSERT --
+830  INSERT   master  small.txt[+]    text         3,594 words  100% :780 ℅:13  ☲ [1]trai…
+831 
+832 -- INSERT -- small.txt+                                                                           buffe
+833 784 735 686 637 2 393 292 139
+ NORMAL   master  small.txt                 text     utf-8    5,158 words  86% :809 ℅:1  ☲ [810]tr… 
+
+ small.txt                                                                                         buffers 
+785 736 687 638 3 394 293 140
+786 737 688 639 4 395 294 141
+787 738 689 640 5 396 295 142
+788 739 690 641 6 397 296 143
+789 740 691 642 7 398 297 144
+790 741 692 643 8 399 298 145
+791 742 693 644 9 400 299 146
+792 743 694 645 0 401 300 147
+793 744 695 646 1 402 301 148
+794 745 696 647 2 403 302 149
+795 746 697 648 3 404 303 150
+796 747 698 649 4 405 304 151
+797 748 699 650 5 406 305 152
+798 749 700 651 6 407 306 153
+799 750 701 652 7 408 307 154
+800 751 702 653 8 409 308 155  master  small.txt[+]      text         285 words  100% :1 ℅:22
+801 752 703 654 9 410 309 156
+802 753 704 655 0 411 310 157 --
+803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text         558 words  100% :
+804 755 706 657 2 413 312
+805 756 707 658 3 414 313
+806 757 708 659 4 415  NORMAL   master  small.txt[+]      text         843 words  100% :313
+807 758 709 660 5 416
+808 759 710 661 6 417
+809 760 711 662 7  NORMAL   master  small.txt[+]     text         1,167 words  100% :417 ℅:1         
+810 761 712 663 8
+811 762 713 664
+812 763 714 665 NSERT   master  small.txt[+]     text         1,393 words  100% :468 ℅:1  ☲
+813 764 715 666
+814 765 716 667  INSERT --
+815 766 717 668 T   master  small.txt[+]    text         1,681 words  100% :520 ℅:89  ☲ [1]
+816 767 718 669
+817 768 719 670 ERT (paste) --
+818 769 720 671 T   master  small.txt[+]    text         2,027 words  100% :572 ℅:21  ☲ [1]
+819 770 721 672
+820 771 722 673 ERT (paste) --
+821 772 723 674  master  small.txt[+]    text         2,385 words  100% :624 ℅:21  ☲ [1]trai
+822 773 724 675
+823 774 725 676 (paste) --
+824 775 726  INSERT   master  small.txt[+]    text         2,796 words  100% :676 ℅:21  ☲ [
+825 776 727
+826 777 728 -- INSERT --
+827 778  INSERT   master  small.txt[+]    text         3,166 words  100% :728 ℅:13  ☲ [1]tr
+828 779
+829 780 -- INSERT --
+830  INSERT   master  small.txt[+]    text         3,594 words  100% :780 ℅:13  ☲ [1]trai…
+831 
+832 -- INSERT -- small.txt+                                                                           buffe
+833 784 735 686 637 2 393 292 139
+ NORMAL   master  small.txt                 text     utf-8    5,158 words  86% :809 ℅:1  ☲ [810]tr… 
+
+ small.txt                                                               buffers 
+ 981 829 780 -- INSERT --
+ 982 830  INSERT   master  small.txt[+]    text         3,594 words  100% :
+ 983 831
+ 984 832 -- INSERT -- small.txt+  
+ 985 833 784 735 686 637 2 393 292 139
+ 986  NORMAL   master  small.txt                 text     utf-8    5,158 word
+ 987 
+ 988  small.txt  
+ 989 785 736 687 638 3 394 293 140
+ 990 786 737 688 639 4 395 294 141
+ 991 787 738 689 640 5 396 295 142
+ 992 788 739 690 641 6 397 296 143
+ 993 789 740 691 642 7 398 297 144
+ 994 790 741 692 643 8 399 298 145
+ 995 791 742 693 644 9 400 299 146
+ 996 792 743 694 645 0 401 300 147
+ 997 793 744 695 646 1 402 301 148
+ 998 794 745 696 647 2 403 302 149
+ 999 795 746 697 648 3 404 303 150
+1000 796 747 698 649 4 405 304 151
+1001 797 748 699 650 5 406 305 152
+1002 798 749 700 651 6 407 306 153
+1003 799 750 701 652 7 408 307 154
+1004 800 751 702 653 8 409 308 155  master  small.txt[+]      text         285
+1005 801 752 703 654 9 410 309 156
+1006 802 753 704 655 0 411 310 157 --
+1007 803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text      
+1008 804 755 706 657 2 413 312
+1009 805 756 707 658 3 414 313
+1010 806 757 708 659 4 415  NORMAL   master  small.txt[+]      text         8
+1011 807 758 709 660 5 416
+1012 808 759 710 661 6 417
+1013 809 760 711 662 7  NORMAL   master  small.txt[+]     text         1,167
+1014 810 761 712 663 8
+1015 811 762 713 664
+1016 812 763 714 665 NSERT   master  small.txt[+]     text         1,393 word
+1017 813 764 715 666
+1018 814 765 716 667  INSERT --
+1019 815 766 717 668 T   master  small.txt[+]    text         1,681 words  1
+1020 816 767 718 669
+1021 817 768 719 670 ERT (paste) --
+1022 818 769 720 671 T   master  small.txt[+]    text         2,027 words  1
+1023 819 770 721 672
+1024 820 771 722 673 ERT (paste) --
+1025 821 772 723 674  master  small.txt[+]    text         2,385 words  100%
+1026 822 773 724 675
+1027 823 774 725 676 (paste) --
+1028 824 775 726  INSERT   master  small.txt[+]    text         2,796 words 
+1029 825 776 727
+1030 826 777 728 -- INSERT --
+1031 827 778  INSERT   master  small.txt[+]    text         3,166 words  100
+1032 828 779
+1033 829 780 -- INSERT --
+1034 830  INSERT   master  small.txt[+]    text         3,594 words  100% :
+1035 831
+1036 832 -- INSERT -- small.txt+  
+1037 833 784 735 686 637 2 393 292 139
+1038  NORMAL   master  small.txt                 text     utf-8    5,158 word
+1039 
+1040 -- INSERT (paste) --                                                             NORMAL   master  <x…     utf-8    6230W  100% :1040/1040☰ ℅:1  ☲ [1]trai… 
+"small.txt" 1040L, 95699B
+ small.txt+                                                              buffers 
+1043  983 831
+1044  984 832 -- INSERT -- small.txt+  
+1045  985 833 784 735 686 637 2 393 292 139
+1046  986  NORMAL   master  small.txt                 text     utf-8    5,158
+1047  987
+1048  988  small.txt  
+1049  989 785 736 687 638 3 394 293 140
+1050  990 786 737 688 639 4 395 294 141
+1051  991 787 738 689 640 5 396 295 142
+1052  992 788 739 690 641 6 397 296 143
+1053  993 789 740 691 642 7 398 297 144
+1054  994 790 741 692 643 8 399 298 145
+1055  995 791 742 693 644 9 400 299 146
+1056  996 792 743 694 645 0 401 300 147
+1057  997 793 744 695 646 1 402 301 148
+1058  998 794 745 696 647 2 403 302 149
+1059  999 795 746 697 648 3 404 303 150
+1060 1000 796 747 698 649 4 405 304 151
+1061 1001 797 748 699 650 5 406 305 152
+1062 1002 798 749 700 651 6 407 306 153
+1063 1003 799 750 701 652 7 408 307 154
+1064 1004 800 751 702 653 8 409 308 155  master  small.txt[+]      text      
+1065 1005 801 752 703 654 9 410 309 156
+1066 1006 802 753 704 655 0 411 310 157 --
+1067 1007 803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text   
+1068 1008 804 755 706 657 2 413 312
+1069 1009 805 756 707 658 3 414 313
+1070 1010 806 757 708 659 4 415  NORMAL   master  small.txt[+]      text      
+1071 1011 807 758 709 660 5 416
+1072 1012 808 759 710 661 6 417
+1073 1013 809 760 711 662 7  NORMAL   master  small.txt[+]     text         1
+1074 1014 810 761 712 663 8
+1075 1015 811 762 713 664
+1076 1016 812 763 714 665 NSERT   master  small.txt[+]     text         1,393
+1077 1017 813 764 715 666
+1078 1018 814 765 716 667  INSERT --
+1079 1019 815 766 717 668 T   master  small.txt[+]    text         1,681 word
+1080 1020 816 767 718 669
+1081 1021 817 768 719 670 ERT (paste) --
+1082 1022 818 769 720 671 T   master  small.txt[+]    text         2,027 word
+1083 1023 819 770 721 672
+1084 1024 820 771 722 673 ERT (paste) --
+1085 1025 821 772 723 674  master  small.txt[+]    text         2,385 words 
+1086 1026 822 773 724 675
+1087 1027 823 774 725 676 (paste) --
+1088 1028 824 775 726  INSERT   master  small.txt[+]    text         2,796 wo
+1089 1029 825 776 727
+1090 1030 826 777 728 -- INSERT --
+1091 1031 827 778  INSERT   master  small.txt[+]    text         3,166 words
+1092 1032 828 779
+1093 1033 829 780 -- INSERT --
+1094 1034 830  INSERT   master  small.txt[+]    text         3,594 words  10
+1095 1035 831
+1096 1036 832 -- INSERT -- small.txt+  
+1097 1037 833 784 735 686 637 2 393 292 139
+1098 1038  NORMAL   master  small.txt                 text     utf-8    5,158
+1099 1039
+1100 1040 -- INSERT (paste) --
+1101 "small.txt" 1040L, 95699B
+1102 -- INSERT (paste) --                                                            
+ NORMAL   masterɆ  <…     utf-8    6845W  100% :1102/1102☰ ℅:1  ☲ [1]trai… 
+
+ small.txt+                                                              buffers 
+1106 1046  986  NORMAL   master  small.txt                 text     utf-8   
+1107 1047  987  
+1108 1048  988  small.txt  
+1109 1049  989 785 736 687 638 3 394 293 140
+1110 1050  990 786 737 688 639 4 395 294 141
+1111 1051  991 787 738 689 640 5 396 295 142
+1112 1052  992 788 739 690 641 6 397 296 143
+1113 1053  993 789 740 691 642 7 398 297 144
+1114 1054  994 790 741 692 643 8 399 298 145
+1115 1055  995 791 742 693 644 9 400 299 146
+1116 1056  996 792 743 694 645 0 401 300 147
+1117 1057  997 793 744 695 646 1 402 301 148
+1118 1058  998 794 745 696 647 2 403 302 149
+1119 1059  999 795 746 697 648 3 404 303 150
+1120 1060 1000 796 747 698 649 4 405 304 151
+1121 1061 1001 797 748 699 650 5 406 305 152
+1122 1062 1002 798 749 700 651 6 407 306 153
+1123 1063 1003 799 750 701 652 7 408 307 154
+1124 1064 1004 800 751 702 653 8 409 308 155  master  small.txt[+]      text   
+1125 1065 1005 801 752 703 654 9 410 309 156 
+1126 1066 1006 802 753 704 655 0 411 310 157 --
+1127 1067 1007 803 754 705 656 1 412 311  NORMAL   master  small.txt[+]      text
+1128 1068 1008 804 755 706 657 2 413 312  
+1129 1069 1009 805 756 707 658 3 414 313  
+1130 1070 1010 806 757 708 659 4 415  NORMAL   master  small.txt[+]      text 
+1131 1071 1011 807 758 709 660 5 416  
+1132 1072 1012 808 759 710 661 6 417  
+1133 1073 1013 809 760 711 662 7  NORMAL   master  small.txt[+]     text      
+1134 1074 1014 810 761 712 663 8  
+1135 1075 1015 811 762 713 664 
+1136 1076 1016 812 763 714 665 NSERT   master  small.txt[+]     text        
+1137 1077 1017 813 764 715 666 
+1138 1078 1018 814 765 716 667  INSERT --
+1139 1079 1019 815 766 717 668 T   master  small.txt[+]    text         1,681
+1140 1080 1020 816 767 718 669 
+1141 1081 1021 817 768 719 670 ERT (paste) --
+1142 1082 1022 818 769 720 671 T   master  small.txt[+]    text         2,027
+1143 1083 1023 819 770 721 672 
+1144 1084 1024 820 771 722 673 ERT (paste) --
+1145 1085 1025 821 772 723 674  master  small.txt[+]    text         2,385 wor
+1146 1086 1026 822 773 724 675 
+1147 1087 1027 823 774 725 676 (paste) --
+1148 1088 1028 824 775 726  INSERT   master  small.txt[+]    text         2,7
+1149 1089 1029 825 776 727  
+1150 1090 1030 826 777 728 -- INSERT --
+1151 1091 1031 827 778  INSERT   master  small.txt[+]    text         3,166 w
+1152 1092 1032 828 779  
+1153 1093 1033 829 780 -- INSERT --
+1154 1094 1034 830  INSERT   master  small.txt[+]    text         3,594 words
+1155 1095 1035 831  
+1156 1096 1036 832 -- INSERT -- small.txt+  
+1157 1097 1037 833 784 735 686 637 2 393 292 139
+1158 1098 1038  NORMAL   master  small.txt                 text     utf-8   
+1159 1099 1039  
+1160 1100 1040 -- INSERT (paste) --
+1161 1101 "small.txt" 1040L, 95699B
+1162 1102 -- INSERT (paste) --      
+1163  NORMAL   masterɆ  <…     utf-8    6845W  100% :1102/1102☰ ℅:1  ☲ [1]t
+1164 
+1165 -- INSERT (paste) --                                                            
+ NORMAL   masterɆ  <…     utf-8    7482W  100% :1165/1165☰ ℅:1  ☲ [1]trai… 
+
+-- INSERT (paste) --
